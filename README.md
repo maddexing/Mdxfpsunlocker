@@ -1,13 +1,13 @@
 # Mdxfpsunlocker
 
-#STAR GOAL 1/2
+# STAR GOAL 1/2
 
-#USAGE
+# USAGE
 download Mdxfpsunlocker.exe
 Run Mdxfpsunlocker.exe after starting Roblox
 Enjoy those beautiful frames 👌
 
-#REPORT AN ISSUE
+# REPORT AN ISSUE
 
 - Make sure you submit an issue or suggestion
 - Make sure your question or problem cannot be answered in the FAQ below
